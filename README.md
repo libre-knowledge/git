@@ -65,7 +65,10 @@ Git 版本控制系統<ruby>修訂歷史<rp>(</rp><rt>history</rt><rp>)</rp></ru
 
 ## 解決方案
 
-（待補）
+* [The Common .gitignore Templates](https://github.com/the-common/gitignore-templates)  
+  提供可快速引入專案中的 Git 版本追蹤排除規則
+* [The Common Gitattributes Template](https://github.com/the-common/gitattributes-templates)  
+  提供可快速引入專案中的 Git 檔案路徑屬性配置檔
 
 ## 參考資料
 
