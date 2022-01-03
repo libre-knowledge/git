@@ -15,3 +15,11 @@
 	path = The Common Gitattributes Template
 	url = https://github.com/the-common/gitattributes-templates.git
 	ignore = dirty
+[submodule "Git 版本控制忽略規則範本"]
+	path = Git 版本控制忽略規則範本
+	url = https://github.com/brlin-tw/Git_ignore_rules_template.git
+	ignore = dirty
+[submodule "gitignore - A collection of useful .gitignore templates"]
+	path = gitignore - A collection of useful .gitignore templates
+	url = https://github.com/github/gitignore.git
+	ignore = dirty
