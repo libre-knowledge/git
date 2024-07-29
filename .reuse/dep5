@@ -1,11 +1,10 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: Git 版本控制系統《自由知識協作平台》主題
-Upstream-Contact: Issues · libre-knowledge/git <https://github.com/libre-knowledge/git/issues>
-Source: https://github.com/libre-knowledge/git
+Upstream-Contact: Issues · libre-knowledge/git <https://gitlab.com/libre-knowledge/git/-/issues>
+Source: https://gitlab.com/libre-knowledge/git
 
 Files:
-  *README.md
-  */README.md
-  _config.yml
-Copyright: 2022 自由知識協作平台貢獻者 <https://github.com/libre-knowledge/libre-knowledge/issues>
-License: CC-BY-SA-4.0
+    *README.md
+    */README.md
+Copyright: Copyright 2024 自由知識協作平台貢獻者 <https://gitlab.com/libre-knowledge/libre-knowledge/-/issues>
+License: CC-BY-SA-4.0+

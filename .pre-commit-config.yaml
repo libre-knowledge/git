@@ -42,13 +42,34 @@ repos:
   # Check REUSE compliance
   # https://reuse.software/
   - repo: https://github.com/fsfe/reuse-tool
-    rev: v0.12.1
+    rev: v3.0.2
     hooks:
       - id: reuse
+
+  # Check shell scripts with ShellCheck
+  # NOTE: ShellCheck must be available in the command search PATHs
+  # https://www.shellcheck.net/
+  # https://github.com/jumanjihouse/pre-commit-hooks#shellcheck
+  - repo: https://github.com/jumanjihouse/pre-commit-hooks
+    rev: 3.0.0
+    hooks:
+      - id: shellcheck
 
   # Check YAML files
   # https://github.com/adrienverge/yamllint
   - repo: https://github.com/adrienverge/yamllint
-    rev: v1.26.1
+    rev: v1.30.0
     hooks:
       - id: yamllint
+
+  # Check EditorConfig style compliance
+  # https://github.com/editorconfig-checker/editorconfig-checker.python
+  - repo: https://github.com/editorconfig-checker/editorconfig-checker.python
+    rev: 2.7.3
+    hooks:
+      - id: editorconfig-checker
+        alias: ec
+        exclude: |
+          (?ix)^(
+            LICENSES/.*
+          )$
