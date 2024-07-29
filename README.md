@@ -78,6 +78,8 @@ Git 版本控制系統<ruby>修訂歷史<rp>(</rp><rt>history</rt><rp>)</rp></ru
   於支援 Snap 的 Linux 作業系統上提供即可用的 `git filter-repo` 軟體
 * [vcsh-git](https://github.com/brlin-tw/vcsh-git)  
   林博仁(Buo-ren Lin)'s preferred Git configuration
+* [git filter-repo](https://gitlab.com/libre-knowledge/git-filter-repo)  
+  高效率的 Git 版控庫歷史重寫工具
 
 ## 參考資料
 

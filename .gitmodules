@@ -31,3 +31,7 @@
 	path = vcsh-git: 林博仁(Buo-ren Lin)'s preferred Git configuration
 	url = https://github.com/brlin-tw/vcsh-git.git
 	ignore = dirty
+[submodule "git filter-repo：高效率的 Git 版控庫歷史重寫工具"]
+	path = git filter-repo：高效率的 Git 版控庫歷史重寫工具
+	url = https://gitlab.com/libre-knowledge/git-filter-repo.git
+	ignore = dirty
