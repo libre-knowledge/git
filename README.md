@@ -75,6 +75,8 @@ Git 版本控制系統<ruby>修訂歷史<rp>(</rp><rt>history</rt><rp>)</rp></ru
   由 GitHub 所維護的多情境適用之 Git 追蹤排除規則範本
 * [Unofficial Snap Packaging for git filter-repo](https://github.com/brlin-tw/git-filter-repo-snap)  
   於支援 Snap 的 Linux 作業系統上提供即可用的 `git filter-repo` 軟體
+* [vcsh-git](https://github.com/brlin-tw/vcsh-git)  
+  林博仁(Buo-ren Lin)'s preferred Git configuration
 
 ## 參考資料
 

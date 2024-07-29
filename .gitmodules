@@ -27,3 +27,7 @@
 	path = Unofficial Snap Packaging for git filter-repo
 	url = https://github.com/brlin-tw/git-filter-repo-snap.git
 	ignore = dirty
+[submodule "vcsh-git: 林博仁(Buo-ren Lin)'s preferred Git configuration"]
+	path = vcsh-git: 林博仁(Buo-ren Lin)'s preferred Git configuration
+	url = https://github.com/brlin-tw/vcsh-git.git
+	ignore = dirty
