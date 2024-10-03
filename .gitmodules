@@ -31,3 +31,7 @@
 	path = git filter-repo：高效率的 Git 版控庫歷史重寫工具
 	url = https://gitlab.com/libre-knowledge/git-filter-repo.git
 	ignore = dirty
+[submodule "Git Cola"]
+	path = Git Cola
+	url = https://gitlab.com/libre-knowledge/git-cola.git
+	ignore = dirty

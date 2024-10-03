@@ -72,6 +72,8 @@ Git 版本控制系統<ruby>修訂歷史<rp>(</rp><rt>history</rt><rp>)</rp></ru
   提供可快速引入專案中的 Git 檔案路徑屬性配置檔
 * [Git 版本控制忽略規則範本](https://github.com/brlin-tw/Git_ignore_rules_template)  
   提供多種情境適用之 Git 版本追蹤忽略規則
+* [Git Cola](https://gitlab.com/libre-knowledge/git-cola.git)  
+  基於 Qt 與 Python 的 Git 圖形界面客戶端
 * [gitignore - A collection of useful .gitignore templates](https://github.com/github/gitignore)  
   由 GitHub 所維護的多情境適用之 Git 追蹤排除規則範本
 * [vcsh-git](https://github.com/brlin-tw/vcsh-git)  
