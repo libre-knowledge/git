@@ -35,3 +35,7 @@
 	path = Git Cola
 	url = https://gitlab.com/libre-knowledge/git-cola.git
 	ignore = dirty
+[submodule "The pivot-submodule-git-dir utility"]
+	path = The pivot-submodule-git-dir utility
+	url = https://gitlab.com/brlin/pivot-submodule-git-dir.git
+	ignore = dirty
